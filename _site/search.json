@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Papers",
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
     "section": "",
     "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Colmena Labs",
+    "title": "Synthetic Cognition",
     "section": "",
-    "text": "This is Colmena Labs Home Page"
+    "text": "We are an Artificial Inteligence research lab that aims to develop an AGI (Artificial General Intelligence)."
   },
   {
-    "objectID": "articles.html",
-    "href": "articles.html",
-    "title": "Articles",
+    "objectID": "index.html#making-true-agis-a-reality",
+    "href": "index.html#making-true-agis-a-reality",
+    "title": "Synthetic Cognition",
     "section": "",
-    "text": "No matching items"
+    "text": "We are an Artificial Inteligence research lab that aims to develop an AGI (Artificial General Intelligence)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

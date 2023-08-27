@@ -1,5 +1,6 @@
 ---
-title: "Colmena Labs"
+title: "Synthetic Cognition"
 ---
+## Making true AGIs a reality
 
-This is Colmena Labs Home Page
+We are an Artificial Inteligence research lab that aims to develop an AGI (Artificial General Intelligence).
