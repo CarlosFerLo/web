@@ -3,12 +3,27 @@ project:
 
 website:
   title: "Synthetic Cognition"
+  description: "Your Journey to Artificial General Intelligence Begins Here"
+  page-navigation: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Team
       - articles.qmd
+    tools:
+      - icon: github
+        href: https://github.com/synthetic-cognition
+      - icon: envelope-fill
+        href: "mailto:carlos.ferlo6165@gmail.com"
+  page-footer: 
+    center: "&copy; 2023 Synthetic Cognition. All rights reserved."
+    right: 
+      - icon: github
+        href: https://github.com/synthetic-cognition
+  open-graph: true
+  twitter-card: true
 
 format:
   html:

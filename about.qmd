@@ -1,5 +1,21 @@
 ---
-title: "About"
+title: "Carlos Fernández Lorán - CEO"
+about:
+    template: jolla
+    image: "/public/carlosferlo_profile.png"
 ---
+Carlos Fernández is the visionary leader at the helm of Synthetic Cognition, spearheading the journey towards Artificial General Intelligence. With a passion for pushing the boundaries of AI, Carlos envisions a future where adaptable machines revolutionize the way we interact with technology.
 
-Work in progres...
+## Education
+
+**Universidad de Barcelona** | Barcelona, Spain
+B.Sc. in Mathematics (Ongoing) | Sept 2022 - Present
+
+## Experience
+
+**Practist** | Co-founder & Chief of AI | Oct 2022 - May 2023
+
+**Synthetic Cognition** | CEO & Founder | May 2023 - Present
+
+For inquiries or collaboration opportunities, you can reach out to Carlos at [carlos.ferlo6165@gmail.com](mailto:carlos.ferlo6165@gmail.com).
+
