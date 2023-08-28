@@ -1,5 +1,5 @@
 ---
-title: "Carlos Fernández Lorán - CEO"
+title: "Carlos Fernández Lorán"
 about:
     template: jolla
     image: "/public/carlosferlo_profile.png"
@@ -15,7 +15,7 @@ B.Sc. in Mathematics (Ongoing) | Sept 2022 - Present
 
 **Practist** | Co-founder & Chief of AI | Oct 2022 - May 2023
 
-**Synthetic Cognition** | CEO & Founder | May 2023 - Present
+**Synthetic Cognition** | Founder | May 2023 - Present
 
 For inquiries or collaboration opportunities, you can reach out to Carlos at [carlos.ferlo6165@gmail.com](mailto:carlos.ferlo6165@gmail.com).
 
