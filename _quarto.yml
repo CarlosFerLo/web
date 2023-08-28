@@ -34,4 +34,5 @@ format:
 execute: 
   freeze: auto
 
-
+resources: 
+  - "public/**"
