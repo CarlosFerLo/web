@@ -2,7 +2,7 @@
 title: "Carlos Fernández Lorán"
 about:
     template: jolla
-    image: "/public/carlosferlo_profile.png"
+    image: "/carlosferlo_profile.png"
 ---
 Carlos Fernández is the visionary leader at the helm of Synthetic Cognition, spearheading the journey towards Artificial General Intelligence. With a passion for pushing the boundaries of AI, Carlos envisions a future where adaptable machines revolutionize the way we interact with technology.
 
