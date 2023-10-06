@@ -19,5 +19,8 @@
   },
   "articles.qmd": {
     "articles.html": "614e6ebf"
+  },
+  "articles/synthetic_demo.ipynb": {
+    "synthetic_demo.html": "f6bd99be"
   }
 }
